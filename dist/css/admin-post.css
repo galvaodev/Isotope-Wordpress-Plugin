@@ -1,0 +1,19 @@
+.sl-icon svg {
+	width: 10%;
+	margin: 0 auto;
+}
+
+.sl-icon {
+	margin: 20px auto 10px auto;
+	display: block;
+	overflow: hidden;
+	text-align: center;
+}
+
+.sl-wrapper {
+	font-size: 23px;
+    margin-left: 8px;
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+}
