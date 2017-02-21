@@ -1,6 +1,6 @@
 <?php 
 
-add_shortcode( 'shortcodename', 'display_custom_post_type' );     
+add_shortcode( 'galeria', 'display_custom_post_type' );     
     function display_custom_post_type(){
        require_once(ISO_DIR.'/dist/css/style.edition.php');
     
