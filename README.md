@@ -54,6 +54,12 @@ Download via github not yet available in wordpress.org to download the plugin:
 
 ```sh
 $ git clone https://github.com/jvgm/Isotope-Wordpress-Plugin.git
+
+shortcode [galeria]
+```
+Shortcode:
+```sh
+ [galeria] or <?php echo do_shortcode('[galeria]'); ?>
 ```
 
 ### Plugins
