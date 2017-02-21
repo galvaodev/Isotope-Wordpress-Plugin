@@ -7,7 +7,7 @@ The plugin generates a custom post type with the filled information to display i
 
 The plugin by default automatically generates the name of the post type but if you want to change the names below, go to:
 
-(../isotope-more/public) line: 7 to 18:
+(../isotope-more/public/isotope-postfolio.php) line: 7 to 18:
 ```sh
          name' => _x( 'Portfólio', 'portfolio','custom' ),
         'singular_name' => _x( 'Portfólio', 'portfolio', 'custom' ),
@@ -23,7 +23,7 @@ The plugin by default automatically generates the name of the post type but if y
         'menu_name' => _x( 'Portfólio Posts', 'portfolio', 'custom' ),
 ```
 
-Taxonomy () line: 45 to 59
+Taxonomy (../isotope-more/public/isotope-postfolio.php) line: 45 to 59
 
 ```sh
     function n_taxonomy() {  
